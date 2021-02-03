@@ -22,3 +22,7 @@ Genome analysis is the identification of genomic features such as gene expressio
 **You may use any programming language you feel most comfortable. We recommend Python because it is the easiest to implement. You're allowed to use any library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
+
+## Solution Explanation
+
+I obtained the solution by first looking at python libraries that could map out circular genome diagrams from a genbank file, and the library that showed up the most during my research was biopython. While reading biopythons documentation, I found a tutorial on how to create circular maps for genomes. After that, it was a simple matter of implementing it for the genbank provided from this coding challenge. The solution code and result image (in PNG format) can be found in the repository. 
