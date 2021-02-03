@@ -1,3 +1,4 @@
+# Look at bottom of ReadMe for solution explanation
 # ACM Research Coding Challenge (Spring 2021)
 
 ## No Collaboration Policy
@@ -25,4 +26,4 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 ## Solution Explanation
 
-I obtained the solution by first looking at python libraries that could map out circular genome diagrams from a genbank file, and the library that showed up the most during my research was biopython. While reading biopythons documentation, I found a tutorial on how to create circular maps for genomes. After that, it was a simple matter of implementing it for the genbank provided from this coding challenge. The solution code and result image (in PNG format) can be found in the repository. 
+I obtained the solution by first looking at python libraries that could map out circular genome diagrams from a genbank file, and the library that showed up the most during my research was biopython. While reading biopython's documentation, I found a tutorial on how to create circular maps for genomes. After that, it was a simple matter of implementing it for the genbank provided from this coding challenge. The solution code (located in app.py) and result image (in PNG format) can be found in the repository. 
